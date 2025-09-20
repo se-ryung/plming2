@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20251396\\Explosion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E146C9A-F97C-49D7-A243-2B510BA447E0}|Explosion\\Explosion.vcxproj|D:\\20251396\\Explosion\\Explosion\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E146C9A-F97C-49D7-A243-2B510BA447E0}|Explosion\\Explosion.vcxproj|solutionrelative:Explosion\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\20251396\\Explosion\\Explosion\\main.c",
+              "RelativeDocumentMoniker": "Explosion\\main.c",
+              "ToolTip": "D:\\20251396\\Explosion\\Explosion\\main.c",
+              "RelativeToolTip": "Explosion\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-20T02:20:55.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
